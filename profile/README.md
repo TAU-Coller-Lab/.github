@@ -28,7 +28,7 @@ Our lab leverages state-of-the-art AI techniques to solve complex business and o
 ## 📬 Contact & Collaboration
 We are always looking for motivated researchers and students.
 
-Website: Coller Lab Official Site
+Website: [Coller Lab Official Site](https://www.collerlab.com/)
 
 Email: thecollerlab@gmail.com
 <!--
