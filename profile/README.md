@@ -21,7 +21,9 @@ Our lab leverages state-of-the-art AI techniques to solve complex business and o
 
 * **Algorithmic Fairness & Ethics:**
 
-## Selected Publications
+## Tools
+
+* [Mוulti-View Feature Propagation (MFP)](https://github.com/TAU-Coller-Lab/MFP) (Harai & Unger, 2025)
 
 
 
