@@ -1,4 +1,4 @@
-# Welcom to Coller-Lab
+# Welcom to Tel-Aviv University Coller-Lab
 
 We are Tel-Aviv University's Coller School of Management AI and Business Analytics academic and research group.
 
