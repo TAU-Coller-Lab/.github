@@ -13,13 +13,13 @@ We are Tel-Aviv University's Coller School of Management AI and Business Analyti
 
 Our lab leverages state-of-the-art AI techniques to solve complex business and organizational challenges. Our primary research pillars include:
 
-* **Recommender Systems:**
+* **Recommender Systems**
 
-* **Large Language Models (LLMs):**
+* **Large Language Models (LLMs)**
 
-* **Information Systems Management:**
+* **Information Systems Management**
 
-* **Algorithmic Fairness & Ethics:**
+* **Algorithmic Fairness & Ethics**
 
 ## 🔧 Tools
 
